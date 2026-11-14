@@ -6,8 +6,6 @@ Trabalho prático da disciplina **Fundamentos de Projeto e Análise de Algoritmo
 - **Problema:** Escalonamento de Tarefas com Prazos (*Job Sequencing with Deadlines*)
 - **Linguagem:** Python 3.10 ou superior, sem bibliotecas externas
 
-> Este repositório guarda os materiais do grupo. A documentação daqui cobre a **parte do Integrante 1: código-fonte, interface para os testes e demonstração na apresentação**. O relatório em PDF, os slides, os testes e benchmarks e a fundamentação teórica são responsabilidade dos outros integrantes.
-
 ---
 
 ## O problema em uma frase
@@ -91,10 +89,10 @@ A análise formal (escolha gulosa, subestrutura ótima, prova de correção) fic
 
 | Papel | Integrante | Responsabilidade | Bloco na apresentação |
 |---|---|---|---|
-| **Integrante 1** | **Matheus Filipe** | **Código-fonte, interface para testes, comentários** (este repositório) | Demonstração do código e fluxo de execução |
+| **Integrante 1** | Matheus Deus | **Código-fonte, interface para testes, comentários** (este repositório) | Demonstração do código e fluxo de execução |
 | Integrante 2 | Lucas Gabriel | Documentação em PDF e entrega do .zip no Canvas | Introdução e contextualização do problema |
 | Integrante 3 | Gabriel | Slides e condução da apresentação | Conclusão, considerações finais e transições |
-| Integrante 4 | Lucas SI | Casos de teste, benchmarks, tabelas e gráficos | Resultados obtidos e análise de desempenho |
+| Integrante 4 | Lucas Almeida | Casos de teste, benchmarks, tabelas e gráficos | Resultados obtidos e análise de desempenho |
 | Integrante 5 | João Fróis | Fundamentação teórica e análise de complexidade | Técnica de projeto e complexidade assintótica |
 
 **Prazos:** entrega no Canvas até 17/11/2026. Apresentação em 18/11/2026, com 10 a 12 minutos por grupo.
