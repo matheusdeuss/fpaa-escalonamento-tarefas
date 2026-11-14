@@ -55,7 +55,7 @@ python main.py --arquivo exemplos/exemplo1.csv --metodo classico --passos
 └── docs/
     ├── FLUXO_EXECUCAO.md          ← fluxo de execução e referência das funções (Integrante 1)
     ├── ROTEIRO_APRESENTACAO.md    ← roteiro do bloco de demonstração (Integrante 1)
-    └── referencias/               ← cronograma do grupo e fundamentação teórica (Integrante 5)
+    └── referencias/               ← cronograma do grupo e fundamentação teórica (Integrante 5 — João Fróis)
 ```
 
 ## O que foi implementado (Integrante 1)
@@ -85,17 +85,17 @@ Detalhes:
 | `escalonar_classico` | O(n log n) + O(n²) = **O(n²)** | O(n) |
 | `escalonar_dsu` | O(n log n) + O(n·α(n)) = **O(n log n)** | O(n) |
 
-A análise formal (escolha gulosa, subestrutura ótima, prova de correção) fica a cargo do Integrante 5.
+A análise formal (escolha gulosa, subestrutura ótima, prova de correção) fica a cargo do Integrante 5 (João Fróis).
 
 ## Divisão do grupo
 
-| Integrante | Responsabilidade |
-|---|---|
-| **1** | **Código-fonte, interface para testes, demonstração do código** (este repositório) |
-| 2 | Documentação em PDF e entrega do .zip no Canvas |
-| 3 | Slides e condução da apresentação |
-| 4 | Casos de teste, benchmarks, tabelas e gráficos |
-| 5 | Fundamentação teórica e análise de complexidade |
+| Papel | Integrante | Responsabilidade | Bloco na apresentação |
+|---|---|---|---|
+| **Integrante 1** | **Matheus Filipe** | **Código-fonte, interface para testes, comentários** (este repositório) | Demonstração do código e fluxo de execução |
+| Integrante 2 | Lucas Gabriel | Documentação em PDF e entrega do .zip no Canvas | Introdução e contextualização do problema |
+| Integrante 3 | Gabriel | Slides e condução da apresentação | Conclusão, considerações finais e transições |
+| Integrante 4 | Lucas SI | Casos de teste, benchmarks, tabelas e gráficos | Resultados obtidos e análise de desempenho |
+| Integrante 5 | João Fróis | Fundamentação teórica e análise de complexidade | Técnica de projeto e complexidade assintótica |
 
 **Prazos:** entrega no Canvas até 17/11/2026. Apresentação em 18/11/2026, com 10 a 12 minutos por grupo.
 
