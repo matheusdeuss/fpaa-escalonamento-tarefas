@@ -55,7 +55,7 @@ python main.py --arquivo exemplos/exemplo1.csv --metodo classico --passos
 └── docs/
     ├── FLUXO_EXECUCAO.md          ← fluxo de execução e referência das funções (Integrante 1)
     ├── ROTEIRO_APRESENTACAO.md    ← roteiro do bloco de demonstração (Integrante 1)
-    └── referencias/               ← cronograma do grupo e fundamentação teórica (Integrante 5 — João Fróis)
+    └── referencias/               ← cronograma do grupo + fundamentação teórica (João Fróis)
 ```
 
 ## O que foi implementado (Integrante 1)
