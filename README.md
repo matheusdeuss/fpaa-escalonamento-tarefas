@@ -50,6 +50,13 @@ python main.py --arquivo exemplos/exemplo1.csv --metodo classico --passos
 │   ├── main.py                    ← script de execução (linha de comando)
 │   ├── exemplos/exemplo1.csv      ← entrada da demonstração
 │   └── README.md                  ← documentação técnica do código e interface
+├── testes/                        ← Integrante 4
+│   ├── test_escalonamento.py      ← testes de correção (manuais, borda, força bruta)
+│   ├── geradores.py               ← geração automática de entradas
+│   ├── benchmark.py               ← bateria N = 10 … 10.000 → tabelas
+│   ├── graficos.py                ← gráficos de tempo (matplotlib)
+│   ├── RESULTADOS.md              ← análise dos resultados (para o PDF e os slides)
+│   └── resultados/                ← benchmark.csv, tabelas.md, graficos/*.png, entradas/
 └── docs/
     ├── FLUXO_EXECUCAO.md          ← fluxo de execução e referência das funções (Integrante 1)
     ├── ROTEIRO_APRESENTACAO.md    ← roteiro do bloco de demonstração (Integrante 1)

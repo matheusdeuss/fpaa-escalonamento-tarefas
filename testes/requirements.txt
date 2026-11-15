@@ -1,0 +1,3 @@
+# Só para gerar os gráficos (testes/graficos.py).
+# O algoritmo, os testes e o benchmark usam apenas a biblioteca padrão.
+matplotlib>=3.5

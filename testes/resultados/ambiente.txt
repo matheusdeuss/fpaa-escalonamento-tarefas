@@ -1,0 +1,7 @@
+Data: 15/11/2026 16:52
+Python: 3.9.6 (CPython)
+Sistema: Darwin 27.0.0 (arm64)
+Processador: arm
+Repetições por medição: 5 (mediana reportada) + 1 aquecimento
+Relógio: time.perf_counter(); coletor de lixo desligado durante cada medição
+Sementes: 2026 + N
